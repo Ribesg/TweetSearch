@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name" translatable="false">Tweet Search</string>
+	<string name="com.twitter.sdk.android.CONSUMER_KEY">TVg0OlVsLkUsV7JQS4ecMQs7y</string>
+	<string name="com.twitter.sdk.android.CONSUMER_SECRET">GzLVbs1dHEWIICnq0A7Evl65znIvJmmVXAaZ2hstzU20ppps1m</string>
+	<string name="activity_search_hint">Enter query…</string>
+	<string name="activity_search_button">Search</string>
+	<string name="activity_results_title">Results for: %1$s</string>
+	<string name="activity_results_error">An error occurred while fetching tweets</string>
+</resources>

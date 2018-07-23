@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="activity_search_hint">Entrez votre recherche…</string>
+	<string name="activity_search_button">Rechercher</string>
+	<string name="activity_results_title">Résultats pour : %1$s</string>
+	<string name="activity_results_error">Une erreur s\'est produite en récupérant les tweets</string>
+</resources>
